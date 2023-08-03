@@ -1,0 +1,11 @@
+name = "SMACCsCookableCans";
+picture = "";
+logo = "";
+logoSmall = "";
+logoOver = "";
+tooltip = "SMACCsCookableCans";
+overview = "";
+action = "";
+author = "";
+authorID = "";
+version = "";
